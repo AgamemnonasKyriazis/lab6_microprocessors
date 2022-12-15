@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\agame\Documents\GitHub\lab5_microprocessors
+vMCPU
+Z1 !s100 9R>F^MP6EAG:YE8UlVInz2
+Z2 IMMAC7ZHC84OkWO<Al1ES`3
+Z3 VF_ei[WLKP5mXEz;kFoQT^0
+Z4 dC:\Users\agame\Documents\GitHub\lab6_microprocessors
+Z5 w1670934887
+Z6 8C:\Users\agame\Documents\GitHub\lab6_microprocessors\cpu.v
+Z7 FC:\Users\agame\Documents\GitHub\lab6_microprocessors\cpu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:\Users\agame\Documents\GitHub\lab6_microprocessors\cpu.v|
+Z10 o-work work -O0
+Z11 n@m@c@p@u
+Z12 !s108 1670960604.745000
+Z13 !s107 C:\Users\agame\Documents\GitHub\lab6_microprocessors\cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_Alu
+Z14 !s100 gnR=OSaYNeNj3`FoozWai0
+Z15 I2elLJz16Z>LldMToIMCh61
+Z16 VR3fHdM6`_bgiJ[lN_k:5z2
+R4
+Z17 w1670870500
+Z18 8C:/Users/agame/Documents/GitHub/lab6_microprocessors/alu.v
+Z19 FC:/Users/agame/Documents/GitHub/lab6_microprocessors/alu.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/agame/Documents/GitHub/lab6_microprocessors/alu.v|
+R10
+Z21 n@m@c@p@u_@alu
+Z22 !s108 1670960604.601000
+Z23 !s107 C:/Users/agame/Documents/GitHub/lab6_microprocessors/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_RAMController
+Z24 !s100 io]CaXWGB`l47@FX6aSPc3
+Z25 I:T8DEc`8PYU`nAoDl<QHK1
+Z26 VnH^UFRWKP>WJebRZN^Dng0
+R4
+Z27 w1670868944
+Z28 8C:/Users/agame/Documents/GitHub/lab6_microprocessors/ramcontroller.v
+Z29 FC:/Users/agame/Documents/GitHub/lab6_microprocessors/ramcontroller.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/agame/Documents/GitHub/lab6_microprocessors/ramcontroller.v|
+R10
+Z31 n@m@c@p@u_@r@a@m@controller
+Z32 !s108 1670960604.673000
+Z33 !s107 C:/Users/agame/Documents/GitHub/lab6_microprocessors/ramcontroller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPU_Registerfile
+Z34 !s100 62H<cbGI?081zO<[Cjgab1
+Z35 IO@]j>>^VC:he;fa2TV=EV2
+Z36 V:lWLOBiSJAlEEEZ4Y>5z<0
+R4
+Z37 w1670868933
+Z38 8C:/Users/agame/Documents/GitHub/lab6_microprocessors/registerfile.v
+Z39 FC:/Users/agame/Documents/GitHub/lab6_microprocessors/registerfile.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|C:/Users/agame/Documents/GitHub/lab6_microprocessors/registerfile.v|
+R10
+Z41 n@m@c@p@u_@registerfile
+Z42 !s108 1670960604.812000
+Z43 !s107 C:/Users/agame/Documents/GitHub/lab6_microprocessors/registerfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCPUtb
+Z44 !s100 eSmb@@D71>SS@oaaR@@;S0
+Z45 IL[H3JKlBCTl6ke4f[Da<I1
+Z46 V5mEILnE17f8>RCn4LMCd?1
+R4
+Z47 w1670958947
+Z48 8C:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb.v
+Z49 FC:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|C:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb.v|
+R10
+Z51 n@m@c@p@utb
+!i10b 1
+!s85 0
+Z52 !s108 1670960604.876000
+Z53 !s107 C:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb.v|
+!s101 -O0
+vMCPUtb2
+!i10b 1
+!s100 ;>hWZkRFVcgi;Nz7?3:dH0
+Ib_O1Y1NzM_@L45agVCC6b1
+Z54 V7^gi@;_QYM^zP^3Lb6EJO3
+R4
+w1670960586
+Z55 8C:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb2.v
+Z56 FC:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb2.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1670960604.942000
+!s107 C:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb2.v|
+Z57 !s90 -reportprogress|300|-work|work|C:\Users\agame\Documents\GitHub\lab6_microprocessors\cputb2.v|
+!s101 -O0
+R10
+Z58 n@m@c@p@utb2
